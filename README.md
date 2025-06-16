@@ -10,7 +10,7 @@
 - 👨‍💻 Portfolio: [dev-patel-0611.vercel.app](https://dev-patel-0611.vercel.app/)
 - 🚀 Freelance Services: [Fiverr Profile](https://www.fiverr.com/devapatel06)
 - 📫 Reach me at **devapatel0603@gmail.com**
-- 📄 My [Resume](https://drive.google.com/file/d/132pK6kMXQ48mxSrFxZn8Bzm7Iq1ASCWL/view)
+- 📄 My [Resume](https://drive.google.com/file/d/1HAK_gk_YSHyt1o8Va4cKE3CI0Bkt0Wx3/view?usp=drivesdk)
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
