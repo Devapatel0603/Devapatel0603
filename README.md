@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
-<h3 align="center">SDE Intern @ Odoo | Full Stack Developer from India</h3>
+<h3 align="center">SDE @ Odoo | Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="./svgs/coding.gif">
 
 <p align="left"> 
